@@ -1,0 +1,7 @@
+.warning {
+    color: red;
+    font-weight: bolder;
+    border: 5px solid red;
+    width: fit-content;
+    padding: 0.5em;
+}
